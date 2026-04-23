@@ -1,0 +1,7 @@
+baseURL = 'https://colbyw09.github.io/octocat.github.io/'
+locale = 'en-us'
+title = 'Gallery Site'
+
+[module]
+  [[module.imports]]
+    path = "github.com/nicokaiser/hugo-theme-gallery/v4"
